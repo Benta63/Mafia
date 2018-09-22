@@ -1,6 +1,6 @@
 # WHAT IS IT?
 
-###Modeling the logic game known as Mafia; the simulation demonstrates who will win, as well as by how much under different constraints. [Here] (https://www.princeton.edu/~sucharit/~mafia/oldmafia/rules.htm) is a link to the rules of the Mafia game with a few exceptions. One such is that the angel outlined in the link has the role of the Detective. Additionally, everyone reveals themself on death. And finally, the Angel in this model works in accordance to the Doctor variant in the link; disregarding the Sorcerer.
+### Modeling the logic game known as Mafia; the simulation demonstrates who will win, as well as by how much under different constraints. [Here] (https://www.princeton.edu/~sucharit/~mafia/oldmafia/rules.htm) is a link to the rules of the Mafia game with a few exceptions. One such is that the angel outlined in the link has the role of the Detective. Additionally, everyone reveals themself on death. And finally, the Angel in this model works in accordance to the Doctor variant in the link; disregarding the Sorcerer.
 
 # HOW IT WORKS
 One tick goes through both the night and day cycles.
